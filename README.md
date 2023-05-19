@@ -1,6 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meloluvert&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloluvert&layout=compact&theme=onedark)](https://github.com/meloluvert/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meloluvert&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloluvert&layout=compact&theme=chartreuse-dark)](https://github.com/meloluvert/github-readme-stats)
 
 <div style="display:  inline_block"<br>
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
